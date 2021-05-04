@@ -32,7 +32,6 @@ body {
 
 
 
-
 /*The second half of my NavBar, with links etc*/
 
 /*Logo Pic on first page*/
@@ -127,11 +126,10 @@ body {
   background-color: white;
   background-image:url("images/hot.gif");
   background-size: auto;
-
   margin-top: 20px;
   margin-bottom: 50px;
   border: solid white 0px;
-  min-height: 0px;
+  min-height: 700px;
     text-align: left;
 
 }
@@ -230,6 +228,25 @@ body {
     margin-top: -1100
 }
 
+.onecontentmapT{
+  float: left;
+    margin-left: 70px;
+        margin-right: 50px;
+    margin-top: -1400
+}
+
+.onecontentmapTT{
+  float: right;
+    margin-left: 70px;
+        margin-right: 50px;
+    margin-top: -150px;
+}
+
+.onecontentmapTTt{
+    margin-left: 70px;
+        margin-right: 50px;
+    margin-top: 150px;
+}
 
 
 .onecontenttext{
@@ -273,11 +290,7 @@ body {
   letter-spacing: -1px;
 }
 
-.onecontentmapT{
-  float: left;
-    margin-left: 70px;
-    margin-top: -1100
-}
+
 
 
 
@@ -352,7 +365,7 @@ body {
   padding-top: 200px;
   margin-bottom:-20px;
   border: solid white 0px;
-  min-height: 150px;
+  min-height: 50px;
   text-align:center;
 }
 
@@ -387,133 +400,23 @@ a:link {
 
 
 
-/*The logo and top part of my NavBar on page 2*/
 
-#twoheaderone{
-  background-color: black;
-  color: black;
-  margin-left: 250px;
-  margin-right: 250px;
-  margin-top: 0px;
-  margin-bottom:0px;
-  border: solid white 0px;
-  min-height: 100px;
-  text-align: left;
-}
-
-
-
-
-/*The second half of my NavBar on page 2, with links etc*/
-
-  #twoheadertwo{
-    background-color: black;
-    color: black;
-    margin-left: 250px;
-    margin-right: 250px;
-    margin-top: 0px;
-    margin-bottom:60px;
-    border: solid white 0px;
-    min-height: 45px;
-    text-align: left;
-}
-
-
-
-
-/*Logo Pic on my second page*/
-
-.twotoplogo{
-  margin-top: 15px;
-  margin-left: 30px;
-    float: left;
-}
-
-
-
-
-/*The login links of my NavBar on page 2*/
-
-
-.twologinone{
-  margin-top: 20px;
-  margin-left: 30px;
-  margin-right: 30px;
-    float: right;
-}
-
-
-
-
-
-/*The NavBar links on page 2*/
-
-.twotopnavone{
-  margin-top: 15px;
-  margin-left: 30px;
-    float: left;
-}
-
-.twotopnavtwo{
-  margin-top: 15px;
-  margin-left: 30px;
-  float: left;
-}
-
-.twotopnavthree{
-  margin-top: 15px;
-  margin-left: 30px;
-    float: left;
-}
-
-.twotopnavfour{
-  margin-top: 15px;
-  margin-left: 30px;
-    float: left;
-}
-
-.twotopnavfive{
-  margin-top: 15px;
-  margin-left: 30px;
-    float: left;
-}
-
-.twotopnavsix{
-  margin-top: 15px;
-  margin-left: 30px;
-  float: left;
-}
-
-.twotopnavseven{
-  margin-top: 15px;
-  margin-left: 30px;
-    float: left;
-}
-
-.twotopnaveight{
-  margin-top: 15px;
-  margin-left: 30px;
-    float: left;
-}
-
-.twotopnavnine{
-  margin-top: 15px;
-  margin-right: 30px;
-    float: right;
-}
-
-.twotoplogo{
-  margin-top: 20px;
-  margin-left: 20px;
+.ugh{
+  margin-top:-26px;
+  margin-left:70px;
+  max-height: 20px;
+  max-width: 20px;
+float: left
 }
 
 
 .ughh{
-  margin-top:-56px;
-  margin-left:230px;
+  margin-top:-64px;
+  margin-left:280px;
+  max-height: 20px;
+  max-width: 20px;
 float: left
 }
-
 
 /*The Layout of the Boxes, eg colour and sizes ON PAGE 2*/
 /*The positioning of the words on page 2*/
